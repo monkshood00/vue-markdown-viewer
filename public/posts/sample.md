@@ -66,7 +66,7 @@ Markdownで書いた記事を、Vueアプリ上でHTMLとして表示するビ�
 
 ### 🔗 公開先
 
-- 🌐 アプリ: [https://vue-markdown-viewer-3fqph5e2f-monkshood00s-projects.vercel.app](https://vue-markdown-viewer-3fqph5e2f-monkshood00s-projects.vercel.app)
+- 🌐 アプリ: [https://vue-markdown-viewer-3fqph5e2f-monkshood00s-projects.vercel.app]https://vue-markdown-viewer.vercel.app/)
 - 💻 GitHub: [https://github.com/monkshood00/vue-markdown-viewer](https://github.com/monkshood00/vue-markdown-viewer)
 
 ---
